@@ -90,7 +90,12 @@ private struct FoundationHTMLFactory<Site: Website>: HTMLFactory {
             .body(
                 .header(for: context, selectedSection: nil),
                 .wrapper(
-
+                    .article(
+                        .div(
+                            .class("content"),
+                            .contentBody(page.body)
+                        )
+                    )
                 ),
                 .footer(for: context.site)
             )

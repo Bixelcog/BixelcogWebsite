@@ -1,0 +1,7 @@
+# About
+
+[Ben Johnson](http://benrobjoh.com/) founded Bixelcog LLC, an iOS development company, in 2014. Ben has been developing for iOS since 2011. He released his first iPhone app, Baseliner, in 2012.
+
+After finishing his MS in Economics in 2012, Ben began full-time contract iOS development work at The Hershey Company. At Hershey, he was the lead iOS developer for two major projects (five iOS apps) to move Hershey's field sales operations to the iPad, one of which won the 2013 Milton Hershey Award of Excellence: Application of Insights and Technology. Hershey's field sales representatives can view their call schedules, place orders, write credits, report whether key items are in stock, and more using apps Ben has written.
+
+Ben grew up in Lancaster, PA. He graduated from Hempfield High School in June 2007. At Hempfield he earned four varsity letters in tennis and played oboe in the concert band. He completed his undergraduate studies at Elizabethtown College in three years, graduating with a BS in mathematics with a second major in economics and a minor in Spanish. After passing actuarial exam FM (financial mathematics), Ben interned with the actuarial department of Arch Insurance in New York, NY during the summer of 2009. Ben finished his MS in economics from the University of North Carolina at Chapel Hill in 2012, where he concentrated in applied microeconomics. Ben graduated from Georgia Tech's online master in computer science program with an MS in 2017.
