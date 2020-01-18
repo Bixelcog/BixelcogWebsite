@@ -4,7 +4,7 @@ import Plot
 
 struct Bixelcog: Website {
     enum SectionID: String, WebsiteSectionID {
-        case posts
+        case about
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -15,7 +15,7 @@ struct Bixelcog: Website {
     var name = "Bixelcog LLC"
     var description = "iOS development in Lancaster, PA"
     var language: Language { .english }
-    var imagePath: Path? { nil }
+    var imagePath: Path? { Path(stringLiteral: "/images/bixelcog.png") }
 }
 
 try Bixelcog().publish(withTheme: .bixelcog)
