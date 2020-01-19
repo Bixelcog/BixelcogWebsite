@@ -18,4 +18,5 @@ struct Bixelcog: Website {
     var imagePath: Path? { Path(stringLiteral: "/images/bixelcog.png") }
 }
 
-try Bixelcog().publish(withTheme: .bixelcog)
+try Bixelcog().publish(withTheme: .bixelcog,
+                       rssFeedConfig: nil)
